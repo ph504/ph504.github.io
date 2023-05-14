@@ -12,12 +12,12 @@ redirect_from:
 Hi, I graduated from Shahid Beheshti University with a bsc. degree in computer engineering in summer 2022.
 I have a keen interest in Robotics, Human-Robot Interaction, Reinforcement Learning, Machine Learning, Deep Learning, Computer Vision, Image Processing, Signal Processing, 
 I have worked with mechanical arms, mobile robots, experienced various problems and enjoyed solving them in my internship and my bachelor thesis. Since physical systems are too expensive to work with, I developed all of my robotic projects with the focus on using the powerful Webots robot simulator, I used this simulator in all of my robotics related projects.
-while learning, I'm sharing my knowledge with awesome freshman students at Shahid Beheshti university, hope they achieve only success and fortune in their lives.
+While learning, I'm sharing my knowledge with awesome freshman students at Shahid Beheshti university, hope they achieve only success and fortune in their lives.
 
-## Origins of my passion for robotics
+## Origins Of My Passion For Robotics
 In highschool I really enjoyed learning astrophysics, quantom physics, classical mechanics and mathematics, and I really considered these fields as my choices for the major selection toward university entrance, Although the fascination that I can create my own virtual world and control it however I want, really made me choose computer engineering major. it felt really godlike with infinite possibilities to be creative. and I got into robotics because of my passion for physics and mathematics and computer science so this field can promise me a future with shared problems in all three of them combined. Robots are the nearest system that bridges the physical world and the virtual computational world which makes me appreciate even the simplest tasks that mankind does day to day and inspire me to develope robots that are either close to the human behavior or robots that can aid different problems of human activities.
 
-## My aspiration in life and my ultimate goal
+## My Aspiration In Life And My Ultimate Goal
 It would be a dream to have robots with developed cognition that makes them have desires and feelings and curiosity. In other words, it makes us wonder what will really happen if creatures with characteristics that are almost unique to the humanity, whether will it downgrade human spieces or will it raise attention to other spieces. Which at the end, would they be treated as a consequence. hope I can live enough to find the answer to my ultimate question about life.
 
 <!--
