@@ -1,12 +1,15 @@
 ---
-title: "1st Place — IUT Robot"
-excerpt: "Organization: Shahid Beheshti University, Department of Computer Science and Engineering, Robotics Laboratory<br/>Supervisor: Professor Armin Salimi-Badr<br/>summer 2021<br/>SBU omni-directional control<br/>"
+title: "Game : VR Serious Game Arachnophobia"
+excerpt: |
+  UNB — Winter 2024 <br/>
+  VR Exposure Game for Overcoming Arachnophobia<br/>
+  <iframe src="https://drive.google.com/file/d/1fAQAhdarXvuIqd1GopJi4botzyi1_mT4/view?usp=sharing"></iframe>
 collection: projects
 ---
 
-![]()
+<iframe src="https://drive.google.com/file/d/1fAQAhdarXvuIqd1GopJi4botzyi1_mT4/view?usp=sharing"></iframe>
 
-Built and tuned an autonomous line-following E-Puck in Webots (Python), focusing on reliable sensor reads, smooth turns, and stable speed control on varied track layouts. Calibrated thresholds and motion parameters to handle junctions and sharp curves with minimal drift, then iterated with quick simulation tests for consistency. Demonstrated the system in the ROBOIUT Line Follower League (2021) and achieved 1st place.
-
+Developed a virtual reality exposure therapy game designed to help users gradually overcome arachnophobia through controlled interaction and desensitization. Built in Unity (C#) for the Meta Quest 3, the project simulates progressive stages of spider exposure in immersive 3D environments, allowing players to confront fear in a safe, customizable setting. Focused on balancing psychological comfort with realism, the system features adjustable intensity levels, dynamic environmental cues, and responsive feedback to track user progress.
+<!-- 
 about the project: [[certificate]]()
-| [[source code]](https://github.com/ph504/usb_omni_bot)
+| [[source code]](https://github.com/ph504/usb_omni_bot) -->
