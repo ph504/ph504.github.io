@@ -1,8 +1,14 @@
 ---
-title: "SBU omni Robot — Internship Project"
-excerpt: "Organization: Shahid Beheshti University, Department of Computer Science and Engineering, Robotics Laboratory<br/>Supervisor: Professor Armin Salimi-Badr<br/>summer 2021<br/>SBU omni-directional control<br/>"
+title: "Bachelor Thesis Project"
+excerpt: |
+  Supervisor: Professor Armin Salimi-Badr <br/>
+  Summer 2021<br/>
+  SBU omni-directional control<br/>
+  <iframe src="https://drive.google.com/file/d/18zS_1-wFhvxnBxdMpngB9yi5FkBIwF8f/view?usp=sharing"></iframe>
 collection: projects
 ---
+
+<iframe src="https://drive.google.com/file/d/18zS_1-wFhvxnBxdMpngB9yi5FkBIwF8f/view?usp=sharing"></iframe>
 
 In this project with a precise model of the real robot in the Webots simulator, we tried to implement control, obstacle avoidance, wall following and localization algorithms to create a complete motion control platform for the robot to be ready for use.
 

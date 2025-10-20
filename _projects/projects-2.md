@@ -1,12 +1,15 @@
 ---
 title: "Bachelor Thesis Project"
-excerpt: "Supervisor: Professor Armin Salimi-Badr <br/>
-Referee: Professor Yaser Shekofteh <br/>
-Summer 2022<br/>drawing digits with mechanical arm using simulator<br/><img src='/images/bachelor.png'>"
+excerpt: |
+  Supervisor: Professor Armin Salimi-Badr <br/>
+  Referee: Professor Yaser Shekofteh <br/>
+  Summer 2022<br/>
+  drawing digits with mechanical arm using simulator<br/>
+  <iframe src="https://drive.google.com/file/d/1hDS_liD9oW7MqjhEyiMYDEjjc8EzvaUO/view?usp=sharing"></iframe>
 collection: projects
 ---
 
-![](/images/bachelor.png)
+<iframe src="https://drive.google.com/file/d/1hDS_liD9oW7MqjhEyiMYDEjjc8EzvaUO/view?usp=sharing"></iframe>
 
 Supervisor: Professor Armin Salimi-Badr <br/>
 Referee: Professor Yaser Shekofteh <br/>

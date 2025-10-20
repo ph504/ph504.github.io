@@ -3,9 +3,9 @@ title: "Master Thesis Project"
 excerpt: |
   Supervisor: Professor Daniel J. Rea <br/>
   Referee: TBD <br/>
-  Summer 2022<br/>
-  Drawing digits with a mechanical arm using simulator<br/>
-  <iframe src="https://drive.google.com/file/d/1dFR6H1bEGJjJbrCmnznqdlBDc-f2PA7t/preview" width="480" height="270"></iframe>
+  years 2023-2025<br/>
+  Built ROS-based teleoperation systems with automated recovery and UX studies on operator performance.<br/>
+  <iframe src="https://drive.google.com/file/d/1dFR6H1bEGJjJbrCmnznqdlBDc-f2PA7t/preview"></iframe>
 collection: projects
 ---
 
