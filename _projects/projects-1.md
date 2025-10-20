@@ -2,15 +2,15 @@
 title: "Master Thesis Project"
 excerpt: "Supervisor: Professor Daniel J. Rea <br/>
 Referee: TBD <br/>
-Summer 2022<br/>drawing digits with mechanical arm using simulator<br/><img src='/images/bachelor.png'>"
+Summer 2022<br/>drawing digits with mechanical arm using simulator<br/><iframe src="https://drive.google.com/file/d/1dFR6H1bEGJjJbrCmnznqdlBDc-f2PA7t/preview" width="480" height="270"></iframe>"
 collection: projects
 ---
 
 <iframe src="https://drive.google.com/file/d/1dFR6H1bEGJjJbrCmnznqdlBDc-f2PA7t/preview" width="480" height="270"></iframe>
 
 
-Supervisor: Professor Armin Salimi-Badr <br/>
-Referee: Professor Yaser Shekofteh <br/>
+Supervisor: Professor Daniel J. Rea <br/>
+Referee: TBD <br/>
 UNB 2023-2025
 
 Built teleoperation interfaces in ROS + Python (Tkinter) using an MVC architecture to improve reliability, operator feedback, and code maintainability.
