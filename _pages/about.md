@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## BIO
+## Bio
 I’m a computer scientist focused on robotics and human–robot interaction. I build resilient teleoperation interfaces (ROS + Python, MVC), diagnose hardware/network issues on real robots (e.g., Jackal), and run user-centred HRI studies that inform design. I founded and led a RoboCup Soccer Simulation 2D team that placed 3rd at IranOpen 2023 and 5th internationally in 2024. My projects span simulation and real systems; I prototype quickly in Webots and bring ideas to hardware when reliability is proven. I enjoy mentoring junior students and collaborating across software, controls, and UX to ship systems that feel smooth, intuitive, and dependable.
 
 <!-- ## Summary

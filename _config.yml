@@ -82,11 +82,10 @@ analytics:
 author:
   name             : "Arya Parvizi"
   avatar           : "profile.png"
-  bio              : >
-    MSc student in Computer Science at UNB.
-    BSc in Computer Engineering from SBU.
+  bio              : |
+    MSc student in Computer Science at UNB.  
+    BSc in Computer Engineering from SBU.  
     Interested in Robotics, Data Science, and Game Development.
-  location         : "Fredericton, New Brunswick, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
