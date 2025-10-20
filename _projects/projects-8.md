@@ -3,11 +3,11 @@ title: "Game: Hollow Knight (Clone)"
 excerpt: |
   Summer 2019<br/>
   Hollow Knight-style metroidvania prototype in Unity (C#).<br/>
-  <iframe src="https://drive.google.com/file/d/1t1p5MZipmUFPt6_38UeL-i3Izt7u3ozg/view?usp=sharing"></iframe>
+  <iframe src="https://drive.google.com/file/d/1t1p5MZipmUFPt6_38UeL-i3Izt7u3ozg/preview"></iframe>
 collection: projects
 ---
 
-<iframe src="https://drive.google.com/file/d/1t1p5MZipmUFPt6_38UeL-i3Izt7u3ozg/view?usp=sharing"></iframe>
+<iframe src="https://drive.google.com/file/d/1t1p5MZipmUFPt6_38UeL-i3Izt7u3ozg/preview"></iframe>
 
 Created a 2D action-platformer inspired by Hollow Knight to study level design, combat systems, and animation pipelines in Unity (C#). Implemented core mechanics including smooth character movement, attack chaining, enemy AI, health management, and scene transitions. Focused on replicating the responsive feel and atmospheric tone of the original while maintaining clean, modular code for scalability. This project served as a hands-on exploration of physics tuning, sprite animation, and gameplay balancing in metroidvania-style games.
 

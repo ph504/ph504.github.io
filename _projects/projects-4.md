@@ -4,11 +4,19 @@ excerpt: |
   Supervisor: Professor Armin Salimi-Badr <br/>
   Summer 2021<br/>
   SBU omni-directional control<br/>
-  <iframe src="https://drive.google.com/file/d/18zS_1-wFhvxnBxdMpngB9yi5FkBIwF8f/view?usp=sharing"></iframe>
+  <iframe src="https://drive.google.com/file/d/18zS_1-wFhvxnBxdMpngB9yi5FkBIwF8f/preview"></iframe>
 collection: projects
 ---
 
-<iframe src="https://drive.google.com/file/d/18zS_1-wFhvxnBxdMpngB9yi5FkBIwF8f/view?usp=sharing"></iframe>
+<!-- <iframe src="https://drive.google.com/file/d/18zS_1-wFhvxnBxdMpngB9yi5FkBIwF8f/view?usp=sharing"></iframe> -->
+<!-- <iframe src="https://drive.google.com/file/d/1hDS_liD9oW7MqjhEyiMYDEjjc8EzvaUO/preview"></iframe>
+<iframe src="https://drive.google.com/file/d/1bbcLms1-Dlgtb2v_FF7dcQBJaCDqgCh2/preview"></iframe> -->
+<iframe src="https://drive.google.com/file/d/18zS_1-wFhvxnBxdMpngB9yi5FkBIwF8f/preview"></iframe>
+<!-- <iframe src="https://drive.google.com/file/d/18eh9_i4vT5_Pm2jXajj3de3jK-kLQukU/preview"></iframe>
+<iframe src="https://drive.google.com/file/d/1kzcUNpqA8QOPv1ofccl0JCpcrwy8rNPn/preview"></iframe>
+<iframe src="https://drive.google.com/file/d/1fAQAhdarXvuIqd1GopJi4botzyi1_mT4/preview"></iframe>
+<iframe src="https://drive.google.com/file/d/1t1p5MZipmUFPt6_38UeL-i3Izt7u3ozg/preview"></iframe> -->
+
 
 In this project with a precise model of the real robot in the Webots simulator, we tried to implement control, obstacle avoidance, wall following and localization algorithms to create a complete motion control platform for the robot to be ready for use.
 

@@ -4,15 +4,17 @@ excerpt: |
   Team Leader: Ali Moghimi<br/>
   Summer 2025<br/>
   Gameplay Development Dummy Paradox, a loop-themed puzzle-platformer prototype for GMTK 2025 Game Jam.<br/>
-  <iframe src="https://drive.google.com/file/d/1kzcUNpqA8QOPv1ofccl0JCpcrwy8rNPn/view?usp=sharing"></iframe>
+  <iframe src="https://drive.google.com/file/d/1kzcUNpqA8QOPv1ofccl0JCpcrwy8rNPn/preview"></iframe>
 collection: projects
 ---
 
-<iframe src="https://drive.google.com/file/d/1kzcUNpqA8QOPv1ofccl0JCpcrwy8rNPn/view?usp=sharing"></iframe>
+<iframe src="https://drive.google.com/file/d/1kzcUNpqA8QOPv1ofccl0JCpcrwy8rNPn/preview"></iframe>
 
-<iframe src="https://drive.google.com/file/d/16qgXaje9deRKfTxzUgdzHT1s4Z8xLAu4/view?usp=sharing"></iframe>
+<iframe src="https://drive.google.com/file/d/16qgXaje9deRKfTxzUgdzHT1s4Z8xLAu4/preview"></iframe>
 
-<iframe src="https://drive.google.com/file/d/1p_Mqvh-iKgsbyu89ibUwXM6r-On1snlU/view?usp=sharing"></iframe>
+<iframe src="https://drive.google.com/file/d/1p_Mqvh-iKgsbyu89ibUwXM6r-On1snlU/preview"></iframe>
+
+
 
 Team Members:
 
