@@ -1,5 +1,5 @@
 ---
-title: "1st Place — IUT Robot"
+title: "Robotics: 1st Place — IUT Robot"
 excerpt: |
   Team Leader: Arya Parvizi<br/>
   Fall 2021<br/>
