@@ -1,5 +1,5 @@
 ---
-title: "Bachelor Thesis Project"
+title: "Robotics Engineer Intern Project"
 excerpt: |
   Supervisor: Professor Armin Salimi-Badr <br/>
   Summer 2021<br/>
