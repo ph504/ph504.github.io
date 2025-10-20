@@ -1,8 +1,11 @@
 ---
 title: "Master Thesis Project"
-excerpt: "Supervisor: Professor Daniel J. Rea <br/>
-Referee: TBD <br/>
-Summer 2022<br/>drawing digits with mechanical arm using simulator<br/><iframe src="https://drive.google.com/file/d/1dFR6H1bEGJjJbrCmnznqdlBDc-f2PA7t/preview" width="480" height="270"></iframe>"
+excerpt: |
+  Supervisor: Professor Daniel J. Rea <br/>
+  Referee: TBD <br/>
+  Summer 2022<br/>
+  Drawing digits with a mechanical arm using simulator<br/>
+  <iframe src="https://drive.google.com/file/d/1dFR6H1bEGJjJbrCmnznqdlBDc-f2PA7t/preview" width="480" height="270"></iframe>
 collection: projects
 ---
 
